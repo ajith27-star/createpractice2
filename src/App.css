@@ -36,3 +36,32 @@
     transform: rotate(360deg);
   }
 }
+
+.a1{
+  border: 5px solid black;
+}
+.a2{
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  gap: 10px;
+  }
+  .a3{
+    background-color: black;
+    color: white;
+    
+  }
+
+.center{
+  text-align: center;
+}
+.b1{
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr ;
+  gap: 10px;
+  width: 100%;
+  
+}
+.b{
+  background-color: black;
+    color: white;
+}
